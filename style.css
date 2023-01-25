@@ -1,0 +1,51 @@
+/* Element Selector*/
+h1{
+    color:red;
+    font-family:'Courier New', Courier, monospace
+}
+h2{
+    color:rgb(239, 58, 58);
+    font-style: italic;
+}
+ol{
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 30px;
+}
+li{
+    color:brown;
+    font-family:'Courier New', Courier, monospace
+}
+#sp1{
+    text-decoration: line-through;
+    font-weight: bolder;
+}
+#sp2{
+    background-color: yellow;
+    font-weight: bolder;
+}
+#sp3{
+    font-style: italic;
+    text-decoration:underline;
+}
+#sp4{
+    background-color: yellow;
+    font-weight: bolder;
+}
+ul{
+    font-weight: bold;
+    color:rgb(199, 20, 20);
+    letter-spacing: 5px;
+}
+/* class selecter */
+.para{
+    color:rgb(128, 107, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+/* style link */
+a{
+    text-decoration: none;
+    color:red;
+    background-color:yellow;
+    font-style: italic;
+}
